@@ -5,12 +5,6 @@ VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RespectBot", "RespectBot\RespectBot.csproj", "{C0B528F4-18F0-48D2-9063-F3F5DA3B888D}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Models", "Models", "{99322E0F-606E-4EFA-9097-EE88D228FFB3}"
-	ProjectSection(SolutionItems) = preProject
-		User.cs = User.cs
-		UserContext.cs = UserContext.cs
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

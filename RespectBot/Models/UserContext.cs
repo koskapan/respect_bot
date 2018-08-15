@@ -4,7 +4,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace RespectBot.Models
 {
-    public class UserContext
+    public class UserContext : DbContext
     {
         public UserContext(DbContextOptions<UserContext> options) : base(options) { }
 
