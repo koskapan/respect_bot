@@ -203,6 +203,8 @@ csx/
 ecf/
 rcf/
 
+RespectBot/appsettings.Development.json
+
 # Windows Store app package directories and files
 AppPackages/
 BundleArtifacts/
