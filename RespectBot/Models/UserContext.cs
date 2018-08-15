@@ -8,6 +8,6 @@ namespace RespectBot.Models
     {
         public UserContext(DbContextOptions<UserContext> options) : base(options) { }
 
-        public DbSet<UserContext> Users { get; set; }
+        public DbSet<User> Users { get; set; }
     }
 }
